@@ -13,3 +13,5 @@ require (
 	google.golang.org/genproto v0.0.0-20200825200019-8632dd797987 // indirect
 	google.golang.org/grpc v1.31.0 // indirect
 )
+
+replace github.com/google/oauth2l => github.com/t3hknr/oauth2l v1.2.2-0.20210713121701-ccd24b3105ed
